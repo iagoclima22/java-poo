@@ -21,6 +21,7 @@ public class troco {
 		troco = dinheiroRecebido - (qtd * preco);
 		System.out.printf("TROCO = %.2f", troco);
 		
+		sc.close();
 		
 	}
 
