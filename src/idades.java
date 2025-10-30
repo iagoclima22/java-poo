@@ -17,9 +17,9 @@ public class idades {
 		nome1 = sc.nextLine();
 		System.out.print("Idade: ");
 		idade1 = sc.nextInt();
+		sc.nextLine();
 		
 		System.out.println("Dados da segunda pessoa:");
-		sc.nextLine();
 		System.out.print("Nome: ");
 		nome2 = sc.nextLine();
 		System.out.print("Idade: ");
